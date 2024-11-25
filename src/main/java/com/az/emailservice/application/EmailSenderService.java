@@ -1,7 +1,7 @@
-package com.az.email_service.application;
+package com.az.emailservice.application;
 
-import com.az.email_service.adapters.EmailSenderGateway;
-import com.az.email_service.core.EmailSenderUseCase;
+import com.az.emailservice.adapters.EmailSenderGateway;
+import com.az.emailservice.core.EmailSenderUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

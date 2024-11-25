@@ -1,4 +1,4 @@
-package com.az.email_service.core;
+package com.az.emailservice.core;
 
 public interface EmailSenderUseCase {
 

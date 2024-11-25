@@ -1,4 +1,4 @@
-package com.az.email_service.core.exceptions;
+package com.az.emailservice.core.exceptions;
 
 public class EmailServiceException extends RuntimeException {
     public EmailServiceException(String message) {
